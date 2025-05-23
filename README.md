@@ -21,55 +21,28 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+<h1> Aplikasi Website Presensi GIS </h1>
+<p>Fitur presensi berbasis lokasi yang akurat. Dengan memanfaatkan teknologi GPS, aplikasi ini akan mendeteksi lokasi pengguna secara real-time dan memverifikasi kehadiran mereka dalam radius yang telah ditentukan.</p>
+<h2>
+    Beranda
+</h2>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Aplikasi Website Presensi GIS
 ![image](https://github.com/user-attachments/assets/726026b4-56b3-4f9a-9dd3-cb9d8af3a16e)
+
+<h2>
+    Halaman Presensi
+</h2>
 
 ![image](https://github.com/user-attachments/assets/026c74e2-d9b4-4317-8a0e-9cb7dd39e1b8)
 
+<h3>
+   Tampilan Presensi Berhasil 
+</h3>
+
 ![image](https://github.com/user-attachments/assets/2f9d253a-705c-4385-997c-1a52fbb3f7b8)
+
+<h3>
+    Tampilan Presensi Gagal
+</h3>
 
 ![image](https://github.com/user-attachments/assets/5e8c03de-642b-47c9-8b5e-a28c91d30276)
